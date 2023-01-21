@@ -34,13 +34,7 @@
 
 ## Funcionalidades
 
-
-
-
-
-
-
-
+Desenvolvi este código utilizando HTML e CSS focando no conceito de Box Model.
 
 ## Linguagens, dependências e libs utilizadas :books:
 
