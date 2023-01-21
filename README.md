@@ -29,7 +29,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-
+Projeto criado para homenagear as obras de arte do famoso pintor Mark Rothko.
 </p>
 
 ## Funcionalidades
